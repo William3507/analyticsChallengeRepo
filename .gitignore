@@ -1,0 +1,2 @@
+application-records-v2.csv
+*.csv # optional: ignore all CSVs
